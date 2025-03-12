@@ -68,7 +68,7 @@ header .container,
     list-style-type: none;
     text-decoration: none;
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto;
     column-gap: 25px;
 }
 
